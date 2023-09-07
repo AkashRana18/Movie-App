@@ -13,7 +13,7 @@ Welcome to the Movie App project! This application allows you to search for your
 - [Demo](#demo)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -49,10 +49,11 @@ To run this project locally:
    ```
 
    ## Contributing
-1.We welcome contributions to improve and expand this Movie App. If you'd like to contribute, please follow these steps:
-2.Fork the repository.
-3.Create a new branch for your feature or bug fix.
-4.Make your changes and ensure the code is well-documented.
-5.Test your changes thoroughly.
-6.Create a pull request, explaining the purpose and benefits of your changes.
+   
+1. We welcome contributions to improve and expand this Movie App. If you'd like to contribute, please follow these steps:
+2. Fork the repository.
+3. Create a new branch for your feature or bug fix.
+4. Make your changes and ensure the code is well-documented.
+5. Test your changes thoroughly.
+6. Create a pull request, explaining the purpose and benefits of your changes.
 
